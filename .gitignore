@@ -1,0 +1,13 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Account credentials and personal data
+admin/*.txt
+students/*.txt
+
+# Python virtual environment
+myworld/
